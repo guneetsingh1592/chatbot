@@ -1,0 +1,1 @@
+{"version":2,"name":"chatbot","builds":[{"src":"**/*.js","use":"@now/node"}]}
