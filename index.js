@@ -4,6 +4,7 @@ const helmet = require('helmet')
 const app = express()
 
 // add some security-related headers to the response
+//200 O.K
 app.use(helmet())
 
 app.get('*', (req, res) => {
