@@ -65,6 +65,6 @@ The helmet package adds extra security-related HTTP headers to HTTP responses se
 
 ## Resources
 
-- To find more information on using the **Node.js Builder**, please refer to the [Node.js Builder (@now/node)](https://zeit.co/docs/v2/deployments/official-builders/node-js-now-node/) documentation.
+- To find more information on using the **Node.js Builder**, please refer to the [Node.js Builder (@now/node)](https://zeit.co/docs/v2/deployments/official-builders/node-js-now-node/) documentation. (Zeit is now part of vercel)
 
 - Check out how to [Deploy any of your applications with ZEIT Now.](https://zeit.co/docs/v2/deployments/basics)
